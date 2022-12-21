@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 public class TelegramBot extends TelegramLongPollingBot {
 
-    private final String BOT_TOKEN = "5841322766:AAGolTb4TBOxG3YO__uNdifJpPcgGk-tJ0Y";
+    private final String BOT_TOKEN = "Your token:)";
     private final String BOT_NAME = "VlNikoAd_bot";
     Storage storage;
     ReplyKeyboardMarkup replyKeyboardMarkup;
